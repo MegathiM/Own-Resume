@@ -1,0 +1,15 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+}
+h1{
+    color: aqua;
+    background-color: aquamarine;
+}
+p1{
+    font-size: 30px;
+    font-weight: 100;
+}
+a {
+    display: block;
+}
